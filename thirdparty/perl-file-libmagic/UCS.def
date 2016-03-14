@@ -1,0 +1,4 @@
+include DEBIAN.def
+
+libmagic.UCS := libmagic.DEBIAN
+libmagic.UCS4_64 := libmagic.UCS

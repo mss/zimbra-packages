@@ -1,0 +1,2 @@
+zptest.UCS := libtry-tiny-perl
+zptest.UCS4_64 := $(zptest.UCS)

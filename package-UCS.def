@@ -1,0 +1,3 @@
+include $(THIRDPARTY_ROOT)/package-deb.def
+
+PKG_APPEND.UCS4_64 := .ucs4

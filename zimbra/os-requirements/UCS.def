@@ -1,0 +1,1 @@
+osdeps.UCS4_64 := libgmp10, libperl5.14
