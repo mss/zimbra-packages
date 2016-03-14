@@ -1,0 +1,3 @@
+libmagic.DEBIAN := libmagic-dev
+libmagic.DEBIAN9_64 := $(libmagic.DEBIAN)
+libmagic.DEBIAN8_64 := $(libmagic.DEBIAN)

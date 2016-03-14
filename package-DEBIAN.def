@@ -1,0 +1,4 @@
+include $(THIRDPARTY_ROOT)/package-deb.def
+
+PKG_APPEND.DEBIAN9_64 := .deb9
+PKG_APPEND.DEBIAN8_64 := .deb8

@@ -1,0 +1,2 @@
+osdeps.DEBIAN9_64 := libgmp10, libperl5.22
+osdeps.DEBIAN8_64 := libgmp10, libperl5.20

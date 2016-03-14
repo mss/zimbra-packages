@@ -1,0 +1,3 @@
+zptest.DEBIAN := libtest-fatal-perl libtest-requires-perl libtest-sharedfork-perl libtry-tiny-perl
+zptest.DEBIAN9_64 := $(zptest.DEBIAN)
+zptest.DEBIAN8_64 := $(zptest.DEBIAN)
